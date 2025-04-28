@@ -18,13 +18,14 @@ body {
     align-items: center;
 }
 
-.navbar_div1 {
+.navbar_div1, .navbar_div2 {
+    position: relative;
     justify-self: center;
     margin-right: 800px;
+    z-index: 1000;
 }
 
 .navbar_div2 {
-    justify-self: center;
     margin-right: 400px;
 }
 
