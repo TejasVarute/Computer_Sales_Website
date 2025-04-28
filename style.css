@@ -21,6 +21,7 @@ body {
 .navbar_div1 {
     justify-self: center;
     margin-right: 800px;
+    z-index: 1000;
 }
 
 .navbar_div2 {
